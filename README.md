@@ -1,7 +1,7 @@
 # EN
 
 # Introduction
-Erciyes University 
+Erciyes University  
 Faculty of Engineering
 Computer Engineering
 BS438 Mobile Application Development Course 2024 Spring season Term Project Assignment
